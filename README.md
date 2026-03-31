@@ -123,7 +123,7 @@ JWT_SECRET=your_secret_key
 
 **Purva Tapare**
 
-* GitHub: https://github.com/YOUR_USERNAME
+* GitHub: https://github.com/87purvatapare
 
 ---
 
